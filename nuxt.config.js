@@ -18,7 +18,7 @@ export default {
       {hid: 'description', name: 'description', content: ''}
     ],
     link: [
-      {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
+      {rel: 'icon', type: 'image/x-icon', href: 'favicon.png'},
       {rel: "stylesheet", href: "assets/css/vendors/Bootstrap/bootstrap.min.css"},
       {rel: "stylesheet", href: "assets/css/plugins/navigation.min.css"},
       {rel: "stylesheet", href: "assets/css/main.min.css"},
