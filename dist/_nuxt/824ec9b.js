@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{168:function(n,e,o){"use strict";o.r(e),e.default={general:{copyright:"mhkarami"}}}}]);
