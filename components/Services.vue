@@ -12,7 +12,7 @@
           <div class="crumina-module crumina-info-box info-box--icon-scaled">
             <h5 class="info-box-title">{{ $t('service.item1.title') }}</h5>
             <div class="info-box-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/icons/info-icon36.png" alt="icon">
+              <img loading="lazy" src="assets/img/demo-content/icons/info-icon36.png" alt="icon">
             </div>
             <div class="info-box-content">
               <p class="info-box-text">{{ $t('service.item1.description') }}</p>
@@ -23,7 +23,7 @@
           <div class="crumina-module crumina-info-box info-box--icon-scaled">
             <h5 class="info-box-title">{{ $t('service.item2.title') }}</h5>
             <div class="info-box-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/icons/info-icon37.png" alt="icon">
+              <img loading="lazy" src="assets/img/demo-content/icons/info-icon37.png" alt="icon">
             </div>
             <div class="info-box-content">
               <p class="info-box-text">{{ $t('service.item2.description') }}</p>
@@ -34,7 +34,7 @@
           <div class="crumina-module crumina-info-box info-box--icon-scaled">
             <h5 class="info-box-title">{{ $t('service.item3.title') }}</h5>
             <div class="info-box-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/icons/info-icon38.png" alt="icon">
+              <img loading="lazy" src="assets/img/demo-content/icons/info-icon38.png" alt="icon">
             </div>
             <div class="info-box-content">
               <p class="info-box-text">{{ $t('service.item3.description') }}</p>

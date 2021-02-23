@@ -67,7 +67,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-          <img loading="lazy" src="/assets/img/demo-content/images/image15.png" alt="hostsight">
+          <img loading="lazy" src="assets/img/demo-content/images/image15.png" alt="hostsight">
         </div>
       </div>
     </div>

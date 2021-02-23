@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="slider-thumb" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-            <img class="swiper-lazy" src="/assets/img/demo-content/images/slider1.png" alt="slider">
+            <img class="swiper-lazy" src="assets/img/demo-content/images/slider1.png" alt="slider">
             <div class="swiper-lazy-preloader"></div>
           </div>
         </div>

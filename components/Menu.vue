@@ -23,7 +23,7 @@
               <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 m-auto">
                   <a href="" class="site-logo">
-                    <img loading="lazy" src="/assets/img/demo-content/logo-colored.png" alt="logo" width="185">
+                    <img loading="lazy" src="assets/img/demo-content/logo-colored.png" alt="logo" width="185">
                   </a>
                   <p class="fw-medium">{{ $t('menu.description') }}</p>
                   <!--                  <form class="sign-in-form">-->
@@ -53,17 +53,17 @@
                   <!--                  <ul class="socials">-->
                   <!--                    <li>-->
                   <!--                      <a href="#">-->
-                  <!--                        <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/facebook.png" alt="facebook">-->
+                  <!--                        <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/facebook.png" alt="facebook">-->
                   <!--                      </a>-->
                   <!--                    </li>-->
                   <!--                    <li>-->
                   <!--                      <a href="#">-->
-                  <!--                        <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/twitter.png" alt="twitter">-->
+                  <!--                        <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/twitter.png" alt="twitter">-->
                   <!--                      </a>-->
                   <!--                    </li>-->
                   <!--                    <li>-->
                   <!--                      <a href="#">-->
-                  <!--                        <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/google.png" alt="google">-->
+                  <!--                        <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/google.png" alt="google">-->
                   <!--                      </a>-->
                   <!--                    </li>-->
                   <!--                  </ul>-->

@@ -15,7 +15,7 @@
       <div class="crumina-module crumina-pricing-tables-item pricing-tables-item-border-bottom pricing-primary">
         <div class="main-pricing-content">
           <div class="pricing-thumb">
-            <img loading="lazy" src="/assets/img/demo-content/pricing/pricing1.png" alt="Server">
+            <img loading="lazy" src="assets/img/demo-content/pricing/pricing1.png" alt="Server">
           </div>
           <h5 class="pricing-title">{{ $t('plan.item1.title') }}</h5>
           <p class="pricing-description">{{ $t('plan.item1.description') }}</p>
@@ -30,7 +30,7 @@
       <div class="crumina-module crumina-pricing-tables-item pricing-tables-item-border-bottom pricing-red">
         <div class="main-pricing-content">
           <div class="pricing-thumb">
-            <img loading="lazy" src="/assets/img/demo-content/pricing/pricing2.png" alt="Server">
+            <img loading="lazy" src="assets/img/demo-content/pricing/pricing2.png" alt="Server">
           </div>
           <h5 class="pricing-title">{{ $t('plan.item2.title') }}</h5>
           <p class="pricing-description">{{ $t('plan.item2.description') }}</p>
@@ -46,7 +46,7 @@
       <div class="crumina-module crumina-pricing-tables-item pricing-tables-item-border-bottom pricing-orange">
         <div class="main-pricing-content">
           <div class="pricing-thumb">
-            <img loading="lazy" src="/assets/img/demo-content/pricing/pricing3.png" alt="Server">
+            <img loading="lazy" src="assets/img/demo-content/pricing/pricing3.png" alt="Server">
           </div>
           <h5 class="pricing-title">{{ $t('plan.item3.title') }}</h5>
           <p class="pricing-description">{{ $t('plan.item3.description') }}</p>
@@ -61,7 +61,7 @@
       <div class="crumina-module crumina-pricing-tables-item pricing-tables-item-border-bottom pricing-yellow">
         <div class="main-pricing-content">
           <div class="pricing-thumb">
-            <img loading="lazy" src="/assets/img/demo-content/pricing/pricing4.png" alt="Server">
+            <img loading="lazy" src="assets/img/demo-content/pricing/pricing4.png" alt="Server">
           </div>
           <h5 class="pricing-title">{{ $t('plan.item4.title') }}</h5>
           <p class="pricing-description">{{ $t('plan.item4.description') }}</p>
@@ -76,7 +76,7 @@
       <div class="crumina-module crumina-pricing-tables-item pricing-tables-item-border-bottom pricing-blue">
         <div class="main-pricing-content">
           <div class="pricing-thumb">
-            <img loading="lazy" src="/assets/img/demo-content/pricing/pricing5.png" alt="Server">
+            <img loading="lazy" src="assets/img/demo-content/pricing/pricing5.png" alt="Server">
           </div>
           <h5 class="pricing-title">{{ $t('plan.item5.title') }}</h5>
           <p class="pricing-description">{{ $t('plan.item5.description') }}</p>

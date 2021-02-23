@@ -11,7 +11,7 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb30">
           <article class="entry post post-standard has-post-thumbnail">
             <div class="post-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/blog/blog1.jpg" alt="Technology">
+              <img loading="lazy" src="assets/img/demo-content/blog/blog1.jpg" alt="Technology">
             </div>
             <div class="post-content">
               <div class="post-category-wrap">
@@ -33,7 +33,7 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb30">
           <article class="entry post post-standard has-post-thumbnail">
             <div class="post-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/blog/blog1.jpg" alt="Technology">
+              <img loading="lazy" src="assets/img/demo-content/blog/blog1.jpg" alt="Technology">
             </div>
             <div class="post-content">
               <div class="post-category-wrap">
@@ -55,7 +55,7 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb30">
           <article class="entry post post-standard has-post-thumbnail">
             <div class="post-thumb">
-              <img loading="lazy" src="/assets/img/demo-content/blog/blog1.jpg" alt="Technology">
+              <img loading="lazy" src="assets/img/demo-content/blog/blog1.jpg" alt="Technology">
             </div>
             <div class="post-content">
               <div class="post-category-wrap">

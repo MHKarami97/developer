@@ -84,37 +84,37 @@
           <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 mb-0 mb-lg-0">
             <div class="widget w-info">
               <a href="" class="site-logo">
-                <img loading="lazy" src="/assets/img/demo-content/logo-white.png" alt="logo" width="185">
+                <img loading="lazy" src="assets/img/demo-content/logo-white.png" alt="logo" width="185">
               </a>
               <p>{{ $t('footer.description') }}</p>
               <ul class="socials">
                 <li>
                   <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/facebook.png"
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/facebook.png"
                          alt="facebook">
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/twitter.png"
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/twitter.png"
                          alt="twitter">
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/google.png"
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/google.png"
                          alt="google">
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/youtube.png"
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/youtube.png"
                          alt="youtube">
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="/assets/img/theme-content/social-icons/rss.png" alt="rss">
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/rss.png" alt="rss">
                   </a>
                 </li>
               </ul>

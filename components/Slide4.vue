@@ -14,7 +14,7 @@
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
           <div class="slider-thumb" data-swiper-parallax="-400" data-swiper-parallax-duration="600">
-            <img class="swiper-lazy" src="/assets/img/demo-content/images/slider4.png" alt="slider">
+            <img class="swiper-lazy" src="assets/img/demo-content/images/slider4.png" alt="slider">
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@
       <div class="navigation-header">
         <div class="navigation-logo">
           <a href="">
-            <img loading="lazy" src="/assets/img/demo-content/logo-white.png" alt="logo">
+            <img loading="lazy" src="assets/img/demo-content/logo-white.png" alt="logo">
           </a>
         </div>
         <div class="navigation-button-toggler">
@@ -15,7 +15,7 @@
         <div class="navigation-body-header">
           <div class="navigation-logo">
             <a href="">
-              <img loading="lazy" src="/assets/img/demo-content/logo-white.png" alt="logo">
+              <img loading="lazy" src="assets/img/demo-content/logo-white.png" alt="logo">
             </a>
           </div>
           <span class="navigation-body-close-button">&#10005;</span>
@@ -29,35 +29,35 @@
                   <div class="navigation-col">
                     <a href="" class="navigation-hosting-item border-primary-themes">
                       <img class="navigation-hosting-item-img " loading="lazy"
-                           src="/assets/img/demo-content/navigation-hostings/hosting1.png" alt="hosting">
+                           src="assets/img/demo-content/navigation-hostings/hosting1.png" alt="hosting">
                       {{ $t('nav.all.info1') }}
                     </a>
                   </div>
                   <div class="navigation-col">
                     <a href="" class="navigation-hosting-item border-red-themes">
                       <img class="navigation-hosting-item-img " loading="lazy"
-                           src="/assets/img/demo-content/navigation-hostings/hosting2.png" alt="hosting">
+                           src="assets/img/demo-content/navigation-hostings/hosting2.png" alt="hosting">
                       {{ $t('nav.all.info2') }}
                     </a>
                   </div>
                   <div class="navigation-col">
                     <a href="" class="navigation-hosting-item border-orange-themes">
                       <img class="navigation-hosting-item-img " loading="lazy"
-                           src="/assets/img/demo-content/navigation-hostings/hosting3.png" alt="hosting">
+                           src="assets/img/demo-content/navigation-hostings/hosting3.png" alt="hosting">
                       {{ $t('nav.all.info3') }}
                     </a>
                   </div>
                   <div class="navigation-col">
                     <a href="" class="navigation-hosting-item border-yellow-themes">
                       <img class="navigation-hosting-item-img " loading="lazy"
-                           src="/assets/img/demo-content/navigation-hostings/hosting4.png" alt="hosting">
+                           src="assets/img/demo-content/navigation-hostings/hosting4.png" alt="hosting">
                       {{ $t('nav.all.info4') }}
                     </a>
                   </div>
                   <div class="navigation-col">
                     <a href="" class="navigation-hosting-item border-blue-themes">
                       <img class="navigation-hosting-item-img " loading="lazy"
-                           src="/assets/img/demo-content/navigation-hostings/hosting5.png" alt="hosting">
+                           src="assets/img/demo-content/navigation-hostings/hosting5.png" alt="hosting">
                       {{ $t('nav.all.info5') }}
                     </a>
                   </div>
