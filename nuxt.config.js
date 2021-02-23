@@ -3,6 +3,9 @@ export default {
   router: {
     base: '/developer/'
   },
+  generate: {
+    dir: 'docs'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'developer',
@@ -16,22 +19,22 @@ export default {
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
-      { rel: "stylesheet", href: "/assets/css/vendors/Bootstrap/bootstrap.min.css" },
-      { rel: "stylesheet", href: "/assets/css/plugins/navigation.min.css" },
-      { rel: "stylesheet", href: "/assets/css/main.min.css" },
-      { rel: "stylesheet", href: "/assets/css/theme-font.min.css" },
-      { rel: "stylesheet", href: "/assets/css/rtl.min.css" }
+      {rel: "stylesheet", href: "assets/css/vendors/Bootstrap/bootstrap.min.css"},
+      {rel: "stylesheet", href: "assets/css/plugins/navigation.min.css"},
+      {rel: "stylesheet", href: "assets/css/main.min.css"},
+      {rel: "stylesheet", href: "assets/css/theme-font.min.css"},
+      {rel: "stylesheet", href: "assets/css/rtl.min.css"}
     ],
     script: [
-      { src: "/assets/js/jquery.min.js", body: true },
-      { src: "/assets/js/Bootstrap/bootstrap.bundle.min.js", body: true },
-      { src: "/assets/js/js-plugins/navigation.min.js", body: true },
-      { src: "/assets/js/js-plugins/material.min.js", body: true },
-      { src: "/assets/js/js-plugins/swiper.min.js", body: true },
-      { src: "/assets/js/js-plugins/smooth-scroll.min.js", body: true },
-      { src: "/assets/js/js-plugins/jquery.matchHeight.min.js", body: true },
-      { src: "/assets/js/main.js", body: true },
-      { src: "/assets/js/svg-loader.js", body: true },
+      {src: "assets/js/jquery.min.js", body: true},
+      {src: "assets/js/Bootstrap/bootstrap.bundle.min.js", body: true},
+      {src: "assets/js/js-plugins/navigation.min.js", body: true},
+      {src: "assets/js/js-plugins/material.min.js", body: true},
+      {src: "assets/js/js-plugins/swiper.min.js", body: true},
+      {src: "assets/js/js-plugins/smooth-scroll.min.js", body: true},
+      {src: "assets/js/js-plugins/jquery.matchHeight.min.js", body: true},
+      {src: "assets/js/main.js", body: true},
+      {src: "assets/js/svg-loader.js", body: true},
     ]
   },
 
@@ -39,9 +42,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-
-  ],
+  plugins: [],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
