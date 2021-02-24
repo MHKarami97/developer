@@ -65,55 +65,55 @@
               </div>
             </div>
           </li>
-          <li class="navigation-item">
-            <a class="navigation-link" href="#">{{ $t('nav.more.title') }}</a>
-            <ul class="navigation-dropdown">
-              <li class="navigation-dropdown-item">
-                <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info1') }}</a>
-              </li>
-              <li class="navigation-dropdown-item">
-                <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info2') }}</a>
-              </li>
-              <li class="navigation-dropdown-item">
-                <a class="navigation-dropdown-link" href="#">
-                  {{ $t('nav.more.info3') }}
-                  <span class="submenu-indicator"></span>
-                </a>
-                <ul class="navigation-dropdown">
-                  <li class="navigation-dropdown-item">
-                    <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info_more1') }}</a>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li class="navigation-item">
-            <a class="navigation-link" href="#">{{ $t('nav.page.title') }}</a>
-            <div class="navigation-megamenu navigation-megamenu-half">
-              <div class="navigation-megamenu-container">
-                <div class="navigation-row">
-                  <div class="navigation-col">
-                    <ul class="navigation-list">
-                      <li class="navigation-list-heading">
-                        {{ $t('nav.page.title_bold') }}
-                        <span class="navigation-list-subheading">{{ $t('nav.page.description') }}</span>
-                      </li>
-                      <li><a href="">{{ $t('nav.page.info1') }}</a></li>
-                    </ul>
-                  </div>
-                  <div class="navigation-col">
-                    <ul class="navigation-list">
-                      <li class="navigation-list-heading">
-                        {{ $t('nav.page.title_bold') }}
-                        <span class="navigation-list-subheading">{{ $t('nav.page.description') }}</span>
-                      </li>
-                      <li><a href="">{{ $t('nav.page.info1') }}</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
+<!--          <li class="navigation-item">-->
+<!--            <a class="navigation-link" href="#">{{ $t('nav.more.title') }}</a>-->
+<!--            <ul class="navigation-dropdown">-->
+<!--              <li class="navigation-dropdown-item">-->
+<!--                <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info1') }}</a>-->
+<!--              </li>-->
+<!--              <li class="navigation-dropdown-item">-->
+<!--                <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info2') }}</a>-->
+<!--              </li>-->
+<!--              <li class="navigation-dropdown-item">-->
+<!--                <a class="navigation-dropdown-link" href="#">-->
+<!--                  {{ $t('nav.more.info3') }}-->
+<!--                  <span class="submenu-indicator"></span>-->
+<!--                </a>-->
+<!--                <ul class="navigation-dropdown">-->
+<!--                  <li class="navigation-dropdown-item">-->
+<!--                    <a class="navigation-dropdown-link" href="">{{ $t('nav.more.info_more1') }}</a>-->
+<!--                  </li>-->
+<!--                </ul>-->
+<!--              </li>-->
+<!--            </ul>-->
+<!--          </li>-->
+<!--          <li class="navigation-item">-->
+<!--            <a class="navigation-link" href="#">{{ $t('nav.page.title') }}</a>-->
+<!--            <div class="navigation-megamenu navigation-megamenu-half">-->
+<!--              <div class="navigation-megamenu-container">-->
+<!--                <div class="navigation-row">-->
+<!--                  <div class="navigation-col">-->
+<!--                    <ul class="navigation-list">-->
+<!--                      <li class="navigation-list-heading">-->
+<!--                        {{ $t('nav.page.title_bold') }}-->
+<!--                        <span class="navigation-list-subheading">{{ $t('nav.page.description') }}</span>-->
+<!--                      </li>-->
+<!--                      <li><a href="">{{ $t('nav.page.info1') }}</a></li>-->
+<!--                    </ul>-->
+<!--                  </div>-->
+<!--                  <div class="navigation-col">-->
+<!--                    <ul class="navigation-list">-->
+<!--                      <li class="navigation-list-heading">-->
+<!--                        {{ $t('nav.page.title_bold') }}-->
+<!--                        <span class="navigation-list-subheading">{{ $t('nav.page.description') }}</span>-->
+<!--                      </li>-->
+<!--                      <li><a href="">{{ $t('nav.page.info1') }}</a></li>-->
+<!--                    </ul>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </li>-->
           <li class="navigation-item">
             <a class="navigation-link" href="#">
               {{ $t('nav.support.title') }}
@@ -122,6 +122,12 @@
               <li class="navigation-dropdown-item">
                 <a class="navigation-dropdown-link" href="">{{ $t('nav.support.info1') }}</a>
               </li>
+              <li class="navigation-dropdown-item">
+                <a class="navigation-dropdown-link" href="">{{ $t('nav.support.info2') }}</a>
+              </li>
+              <li class="navigation-dropdown-item">
+                <a class="navigation-dropdown-link" href="">{{ $t('nav.support.info3') }}</a>
+              </li>
             </ul>
           </li>
           <li class="navigation-item">
@@ -129,7 +135,7 @@
           </li>
         </ul>
         <div class="navigation-body-section navigation-additional-menu">
-          <a href="#" class="crumina-button button--green button--xs">{{ $t('nav.info') }}</a>
+          <a href="https://api.whatsapp.com/send/?phone=989390709197" class="crumina-button button--green button--xs">{{ $t('nav.info') }}</a>
           <div class="navigation-search">
             <div class="link-modal-popup" data-toggle="modal" data-target="#popupSearch"></div>
             <svg class="crumina-icon">

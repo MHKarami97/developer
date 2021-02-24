@@ -18,7 +18,7 @@ import Services from "../components/Services";
 import Why from "../components/Why";
 import Plans from "../components/Plans";
 import Clients from "../components/Clients";
-import ClientsLogo from "../components/Clients";
+import ClientsLogo from "../components/ClientsLogo";
 import Helps from "../components/Helps";
 import Try from "../components/Try";
 import BlogLatest from "../components/BlogLatest";

@@ -46,16 +46,16 @@
                   <div class="crumina-module crumina-testimonial-item testimonial--author-bottom">
                     <div class="testimonial-content">
                       <h6 class="testimonial-text">
-                        {{ $t('client.item1.description') }}
+                        {{ $t('client.item2.description') }}
                       </h6>
                     </div>
                     <div class="author-content-wrap">
                       <div class="avatar">
-                        <img loading="lazy" src="assets/img/demo-content/avatars/author1.png" alt="avatar">
+                        <img loading="lazy" src="assets/img/demo-content/avatars/author2.png" alt="avatar">
                       </div>
                       <div class="author-content">
-                        <a href="#" class="author-name h6">{{ $t('client.item1.user') }}</a>
-                        <div class="author-company">{{ $t('client.item1.user_info') }}</div>
+                        <a href="#" class="author-name h6">{{ $t('client.item2.user') }}</a>
+                        <div class="author-company">{{ $t('client.item2.user_info') }}</div>
                       </div>
                     </div>
                   </div>

@@ -23,17 +23,42 @@
         <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
           <div class="tab-content" id="myTabContent7">
             <div class="tab-pane fade show active" id="domains" role="tabpanel" aria-labelledby="domains-tab">
+
               <h5 class="mb-2">{{ $t('help.item1.help1.title') }}</h5>
               <p class="mb-4">
                 {{ $t('help.item1.help1.description') }}
               </p>
-              <a href="#" class="crumina-button button--lime button--l mt-2">{{ $t('help.item1.more') }}</a>
-            </div>
-            <div class="tab-pane fade" id="web-hosting" role="tabpanel" aria-labelledby="web-hosting-tab">
+
               <h5 class="mb-2">{{ $t('help.item1.help2.title') }}</h5>
               <p class="mb-4">
                 {{ $t('help.item1.help2.description') }}
               </p>
+
+              <h5 class="mb-2">{{ $t('help.item1.help3.title') }}</h5>
+              <p class="mb-4">
+                {{ $t('help.item1.help3.description') }}
+              </p>
+
+              <a href="#" class="crumina-button button--lime button--l mt-2">{{ $t('help.item2.more') }}</a>
+            </div>
+
+            <div class="tab-pane fade" id="web-hosting" role="tabpanel" aria-labelledby="web-hosting-tab">
+
+              <h5 class="mb-2">{{ $t('help.item2.help1.title') }}</h5>
+              <p class="mb-4">
+                {{ $t('help.item2.help1.description') }}
+              </p>
+
+              <h5 class="mb-2">{{ $t('help.item2.help2.title') }}</h5>
+              <p class="mb-4">
+                {{ $t('help.item2.help2.description') }}
+              </p>
+
+              <h5 class="mb-2">{{ $t('help.item2.help3.title') }}</h5>
+              <p class="mb-4">
+                {{ $t('help.item2.help3.description') }}
+              </p>
+
               <a href="#" class="crumina-button button--lime button--l mt-2">{{ $t('help.item2.more') }}</a>
             </div>
           </div>
