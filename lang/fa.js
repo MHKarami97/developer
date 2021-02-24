@@ -1,14 +1,24 @@
 export default {
-  "general": {
-    "copyright": "محمد حسین"
-  },
   "footer": {
-    "description": "این متن توضیح می باشد",
+    "description": " نامی قدیمی در عرصه‌ی طراحی سایت و خدمات گرافیکی است که متخصصان جوانش همواره تلاش کرده‌اند سطح کیفی خدمات خود را بر استانداردهای روز جهان منطبق نمایند",
     "widget": {
       "w1": {
-        "title": "عنوان اول",
-        "link1_title": "لینک اول",
-        "link2_title": "لینک دوم"
+        "title": "دسترسی سریع",
+        "link1_title": "نمونه کارها",
+        "link2_title": "تماس با ما",
+        "link3_title": "همکاری"
+      },
+      "w2": {
+        "title": "خدمات",
+        "link1_title": "طراحی سایت",
+        "link2_title": "طراحی اپلیکیشن",
+        "link3_title": "دوره های آموزشی"
+      },
+      "w3": {
+        "title": "خانواده",
+        "link1_title": "آی ترفند",
+        "link2_title": "انجمن گفت و گو",
+        "link3_title": "فروشگاه"
       }
     },
     "subscribe": {
@@ -18,7 +28,7 @@ export default {
       "button": "عضویت"
     },
     "copyright": {
-      "description": "Copy right 2021 @",
+      "description": "تمامی حقوق محفوظ می‌باشد",
       "site": "mhkarami97"
     }
   },

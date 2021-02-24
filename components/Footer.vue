@@ -25,27 +25,9 @@
                     </svg>
                   </a>
                 </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12 mb-4 mb-lg-0">
-            <div class="widget widget_links">
-              <h5 class="widget-title">
-                {{ $t('footer.widget.w1.title') }}
-              </h5>
-              <ul>
                 <li>
                   <a href="">
-                    {{ $t('footer.widget.w1.link1_title') }}
-                    <svg class="crumina-icon">
-                      <use xlink:href="#icon-triangle-arrow"></use>
-                    </svg>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    {{ $t('footer.widget.w1.link2_title') }}
+                    {{ $t('footer.widget.w1.link3_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
                     </svg>
@@ -58,12 +40,12 @@
           <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12 mb-4 mb-lg-0">
             <div class="widget widget_links">
               <h5 class="widget-title">
-                {{ $t('footer.widget.w1.title') }}
+                {{ $t('footer.widget.w2.title') }}
               </h5>
               <ul>
                 <li>
                   <a href="">
-                    {{ $t('footer.widget.w1.link1_title') }}
+                    {{ $t('footer.widget.w2.link1_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
                     </svg>
@@ -71,7 +53,49 @@
                 </li>
                 <li>
                   <a href="">
-                    {{ $t('footer.widget.w1.link2_title') }}
+                    {{ $t('footer.widget.w2.link2_title') }}
+                    <svg class="crumina-icon">
+                      <use xlink:href="#icon-triangle-arrow"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    {{ $t('footer.widget.w2.link3_title') }}
+                    <svg class="crumina-icon">
+                      <use xlink:href="#icon-triangle-arrow"></use>
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 col-sm-12 col-xs-12 mb-4 mb-lg-0">
+            <div class="widget widget_links">
+              <h5 class="widget-title">
+                {{ $t('footer.widget.w3.title') }}
+              </h5>
+              <ul>
+                <li>
+                  <a href="">
+                    {{ $t('footer.widget.w3.link1_title') }}
+                    <svg class="crumina-icon">
+                      <use xlink:href="#icon-triangle-arrow"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    {{ $t('footer.widget.w3.link2_title') }}
+                    <svg class="crumina-icon">
+                      <use xlink:href="#icon-triangle-arrow"></use>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="">
+                    {{ $t('footer.widget.w3.link3_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
                     </svg>
@@ -89,32 +113,32 @@
               <p>{{ $t('footer.description') }}</p>
               <ul class="socials">
                 <li>
-                  <a href="#">
+                  <a href="https://facebook.com/mhkarami97">
                     <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/facebook.png"
                          alt="facebook">
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://twitter.com/mhkarami97">
                     <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/twitter.png"
                          alt="twitter">
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/google.png"
-                         alt="google">
+                  <a href="https://www.linkedin.com/in/mhkarami97">
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/linkedin.png"
+                         alt="linkedin">
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="http://youtube.com/channel/UCaRptrYsQnTAdxYoYpAANsw/">
                     <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/youtube.png"
                          alt="youtube">
                   </a>
                 </li>
                 <li>
-                  <a href="#">
-                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/rss.png" alt="rss">
+                  <a href="mailto:mhkarami97@gmail.com">
+                    <img class="crumina-icon " loading="lazy" src="assets/img/theme-content/social-icons/email.png" alt="email">
                   </a>
                 </li>
               </ul>
