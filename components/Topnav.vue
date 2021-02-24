@@ -131,7 +131,7 @@
             </ul>
           </li>
           <li class="navigation-item">
-            <a class="navigation-link" href="">{{ $t('nav.blog') }}</a>
+            <a class="navigation-link" href="http://mhkarami97.ir/blog">{{ $t('nav.blog') }}</a>
           </li>
         </ul>
         <div class="navigation-body-section navigation-additional-menu">

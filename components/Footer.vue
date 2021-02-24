@@ -78,7 +78,7 @@
               </h5>
               <ul>
                 <li>
-                  <a href="">
+                  <a href="https://itarfand.com">
                     {{ $t('footer.widget.w3.link1_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
@@ -86,7 +86,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="https://forum.itarfand.com">
                     {{ $t('footer.widget.w3.link2_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
@@ -94,7 +94,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="">
+                  <a href="https://shop.itarfand.com">
                     {{ $t('footer.widget.w3.link3_title') }}
                     <svg class="crumina-icon">
                       <use xlink:href="#icon-triangle-arrow"></use>
@@ -188,6 +188,7 @@
     </a>
   </footer>
 </template>
+
 <script>
 export default {}
 </script>
