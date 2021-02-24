@@ -51,7 +51,7 @@
                     </div>
                     <div class="author-content-wrap">
                       <div class="avatar">
-                        <img loading="lazy" src="assets/img/demo-content/avatars/author2.png" alt="avatar">
+                        <img loading="lazy" src="assets/img/demo-content/avatars/author4.png" alt="avatar">
                       </div>
                       <div class="author-content">
                         <a href="#" class="author-name h6">{{ $t('client.item2.user') }}</a>
@@ -69,7 +69,7 @@
                     </div>
                     <div class="author-content-wrap">
                       <div class="avatar">
-                        <img loading="lazy" src="assets/img/demo-content/avatars/author2.png" alt="avatar">
+                        <img loading="lazy" src="assets/img/demo-content/avatars/author6.png" alt="avatar">
                       </div>
                       <div class="author-content">
                         <a href="#" class="author-name h6">{{ $t('client.item1.user') }}</a>

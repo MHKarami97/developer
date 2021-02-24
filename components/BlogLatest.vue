@@ -15,16 +15,16 @@
             </div>
             <div class="post-content">
               <div class="post-category-wrap">
-                <a href="#" class="post-category">{{ $t('blog.item1.tag1') }}</a>,
-                <a href="#" class="post-category">{{ $t('blog.item1.tag2') }}</a>
+                <a href="http://mhkarami97.ir/blog" class="post-category">{{ $t('blog.item1.tag1') }}</a>,
+                <a href="http://mhkarami97.ir/blog" class="post-category">{{ $t('blog.item1.tag2') }}</a>
               </div>
-              <a href="" class="post-title h6">{{ $t('blog.item1.title') }}</a>
+              <a href="http://mhkarami97.ir/blog" class="post-title h6">{{ $t('blog.item1.title') }}</a>
               <div class="post-text">
                 <p>{{ $t('blog.item1.description') }}</p>
               </div>
               <div class="post-additional-info">
                 <div class="author-posted">
-                  <a href="#" class="author">{{ $t('blog.more') }}</a>
+                  <a href="http://mhkarami97.ir/blog" class="author">{{ $t('blog.more') }}</a>
                 </div>
               </div>
             </div>
@@ -33,20 +33,20 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb30">
           <article class="entry post post-standard has-post-thumbnail">
             <div class="post-thumb">
-              <img loading="lazy" src="assets/img/demo-content/blog/blog1.jpg" alt="Technology">
+              <img loading="lazy" src="assets/img/demo-content/blog/blog2.jpg" alt="Technology">
             </div>
             <div class="post-content">
               <div class="post-category-wrap">
-                <a href="#" class="post-category">{{ $t('blog.item1.tag1') }}</a>,
-                <a href="#" class="post-category">{{ $t('blog.item1.tag2') }}</a>
+                <a href="https://www.aparat.com/mhkarami97" class="post-category">{{ $t('blog.item2.tag1') }}</a>,
+                <a href="https://www.aparat.com/mhkarami97" class="post-category">{{ $t('blog.item2.tag2') }}</a>
               </div>
-              <a href="" class="post-title h6">{{ $t('blog.item1.title') }}</a>
+              <a href="https://www.aparat.com/mhkarami97" class="post-title h6">{{ $t('blog.item2.title') }}</a>
               <div class="post-text">
-                <p>{{ $t('blog.item1.description') }}</p>
+                <p>{{ $t('blog.item2.description') }}</p>
               </div>
               <div class="post-additional-info">
                 <div class="author-posted">
-                  <a href="#" class="author">{{ $t('blog.more') }}</a>
+                  <a href="https://www.aparat.com/mhkarami97" class="author">{{ $t('blog.more') }}</a>
                 </div>
               </div>
             </div>
@@ -55,31 +55,31 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb30">
           <article class="entry post post-standard has-post-thumbnail">
             <div class="post-thumb">
-              <img loading="lazy" src="assets/img/demo-content/blog/blog1.jpg" alt="Technology">
+              <img loading="lazy" src="assets/img/demo-content/blog/blog5.jpg" alt="Technology">
             </div>
             <div class="post-content">
               <div class="post-category-wrap">
-                <a href="#" class="post-category">{{ $t('blog.item1.tag1') }}</a>,
-                <a href="#" class="post-category">{{ $t('blog.item1.tag2') }}</a>
+                <a href="https://itarfand.com/" class="post-category">{{ $t('blog.item3.tag1') }}</a>,
+                <a href="https://itarfand.com/" class="post-category">{{ $t('blog.item3.tag2') }}</a>
               </div>
-              <a href="" class="post-title h6">{{ $t('blog.item1.title') }}</a>
+              <a href="https://itarfand.com/" class="post-title h6">{{ $t('blog.item3.title') }}</a>
               <div class="post-text">
-                <p>{{ $t('blog.item1.description') }}</p>
+                <p>{{ $t('blog.item3.description') }}</p>
               </div>
               <div class="post-additional-info">
                 <div class="author-posted">
-                  <a href="#" class="author">{{ $t('blog.more') }}</a>
+                  <a href="https://itarfand.com/" class="author">{{ $t('blog.more') }}</a>
                 </div>
               </div>
             </div>
           </article>
         </div>
       </div>
-      <div class="row mt-5">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 align-center">
-          <a href="" class="crumina-button button--dark button--l">{{ $t('blog.more') }}</a>
-        </div>
-      </div>
+<!--      <div class="row mt-5">-->
+<!--        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 align-center">-->
+<!--          <a href="" class="crumina-button button&#45;&#45;dark button&#45;&#45;l">{{ $t('blog.more') }}</a>-->
+<!--        </div>-->
+<!--      </div>-->
     </div>
   </section>
 </template>
