@@ -1,8 +1,8 @@
 export default {
   target: 'static',
-  router: {
-    base: '/developer/'
-  },
+  // router: {
+  //   base: '/developer/'
+  // },
   generate: {
     dir: 'docs'
   },
