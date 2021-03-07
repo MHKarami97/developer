@@ -1643,13 +1643,13 @@ button.swiper-pagination-bullet {
   height: 36px; }
 
 .leaflet-control-layers-toggle {
-  background-image: url("../img/theme-content/leaflet/layers.png"); }
+  background-image: url("assets/img/theme-content/leaflet/layers.png"); }
 
 .leaflet-retina .leaflet-control-layers-toggle {
   background-size: 26px 26px; }
 
 .leaflet-retina .leaflet-control-layers-toggle {
-  background-image: url("../img/theme-content/leaflet/layers-2x.png"); }
+  background-image: url("assets/img/theme-content/leaflet/layers-2x.png"); }
 
 .leaflet-touch .leaflet-control-layers-toggle {
   width: 44px;
@@ -1688,7 +1688,7 @@ button.swiper-pagination-bullet {
 
 /* Default icon URLs */
 .leaflet-default-icon-path {
-  background-image: url("../img/theme-content/leaflet/marker-icon.png"); }
+  background-image: url("assets/img/theme-content/leaflet/marker-icon.png"); }
 
 /* attribution and scale controls */
 .leaflet-container .leaflet-control-attribution {
@@ -4371,7 +4371,7 @@ ul ol li {
   margin-top: 60px; }
 
 .popup-search .modal-content::after {
-  background-image: url("../img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
+  background-image: url("assets/img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
 
 /*------------- #STYLES for checkboxes --------------*/
 .checkboxes-wrap .checkbox {
@@ -5439,7 +5439,7 @@ ul ol li {
   margin-bottom: 30px; }
 
 .user-menu-popup .modal-content:after {
-  background-image: url("../img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
+  background-image: url("assets/img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
 
 /*------------- Responsive Mode --------------*/
 @media (max-width: 768px) {
@@ -8723,7 +8723,7 @@ blockquote {
       margin-bottom: 30px; }
 
 blockquote p:before {
-  content: url("../img/theme-content/images/quote.png"); }
+  content: url("assets/img/theme-content/images/quote.png"); }
 
 /*================= Responsive Mode ============*/
 @media (max-width: 768px) {
@@ -8988,7 +8988,7 @@ blockquote p:before {
       color: var(--primary-accent-color); }
 
 .popup-subscribe .modal-content:before {
-  background-image: url("../img/theme-content/backgrounds/subscribe-gradient-bg.png"); }
+  background-image: url("assets/img/theme-content/backgrounds/subscribe-gradient-bg.png"); }
 
 /*================= Responsive Mode ============*/
 @media (max-width: 768px) {
@@ -9294,7 +9294,7 @@ blockquote p:before {
     padding: 0; }
 
 .site-header:before {
-  background-image: url("../img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
+  background-image: url("assets/img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
 
 .header--sticky {
   position: fixed;
@@ -9413,7 +9413,7 @@ blockquote p:before {
     margin-left: auto; }
 
 .site-header--status {
-  background-image: url("../img/demo-content/backgrounds/main-section-bg2.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/main-section-bg2.png"); }
 
 /*================= Responsive Mode ============*/
 @media (max-width: 991px) {
@@ -9487,7 +9487,7 @@ blockquote p:before {
         position: relative; } }
 
 .footer.footer--with-decoration:before {
-  background-image: url("../img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
+  background-image: url("assets/img/theme-content/backgrounds/header-footer-gradient-bg.png"); }
 
 .footer-content {
   padding: 120px 0 60px; }
@@ -10487,68 +10487,68 @@ a img.aligncenter {
 
 /*------------- Backgrounds --------------*/
 .main-section-bg {
-  background-image: url("../img/demo-content/backgrounds/main-section-bg.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/main-section-bg.png"); }
 
 section {
   background-size: cover;
   background-repeat: no-repeat; }
 
 .stunning-header-bg1 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg1.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg1.png"); }
 
 .stunning-header-bg2 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg2.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg2.png"); }
 
 .stunning-header-bg3 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg3.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg3.png"); }
 
 .stunning-header-bg4 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg4.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg4.png"); }
 
 .stunning-header-bg5 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg5.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg5.png"); }
 
 .stunning-header-bg6 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg6.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg6.png"); }
 
 .stunning-header-bg7 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg7.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg7.png"); }
 
 .stunning-header-bg8 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg8.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg8.png"); }
 
 .stunning-header-bg9 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg9.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg9.png"); }
 
 .stunning-header-bg10 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg10.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg10.png"); }
 
 .stunning-header-bg11 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg11.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg11.png"); }
 
 .stunning-header-bg12 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg12.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg12.png"); }
 
 .stunning-header-bg13 {
-  background-image: url("../img/demo-content/backgrounds/stunning-header-bg13.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/stunning-header-bg13.png"); }
 
 .section-bg1 {
-  background-image: url("../img/demo-content/backgrounds/section-bg1.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg1.png"); }
 
 .section-bg2 {
-  background-image: url("../img/demo-content/backgrounds/section-bg2.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg2.png"); }
 
 .section-bg3 {
-  background-image: url("../img/demo-content/backgrounds/section-bg3.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg3.png"); }
 
 .section-bg4 {
-  background-image: url("../img/demo-content/backgrounds/section-bg4.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg4.png"); }
 
 .section-bg5 {
-  background-image: url("../img/demo-content/backgrounds/section-bg5.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg5.png"); }
 
 .section-bg6 {
-  background-image: url("../img/demo-content/backgrounds/section-bg6.png"); }
+  background-image: url("assets/img/demo-content/backgrounds/section-bg6.png"); }
 
 /*------------- Responsive Mode --------------*/
 @media (max-width: 1200px) {
