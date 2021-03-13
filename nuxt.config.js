@@ -8,17 +8,17 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'developer',
+    title: 'طراحی سایت | اپلیکیشن | نرم افزار | آموزش',
     htmlAttrs: {
       lang: 'fa'
     },
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {hid: 'description', name: 'description', content: ''}
+      {hid: 'description', name: 'description', content: 'طراحی سایت | اپلیکیشن | نرم افزار | آموزش'}
     ],
     link: [
-      {rel: 'icon', type: 'image/x-icon', href: 'favicon.ico'},
+      {rel: 'icon', type: 'image/x-icon', href: 'favicon.png'},
       {rel: "stylesheet", href: "assets/css/vendors/Bootstrap/bootstrap.min.css"},
       {rel: "stylesheet", href: "assets/css/plugins/navigation.min.css"},
       {rel: "stylesheet", href: "assets/css/main.min.css"},
