@@ -60,14 +60,7 @@ export default {
           iso: 'fa-IR',
           file: 'fa.js',
           dir: 'rtl'
-        },
-        {
-          name: 'English',
-          code: 'en',
-          iso: 'en-US',
-          file: 'en.js',
-          dir: 'ltr'
-        },
+        }
       ],
       lazy: true,
       langDir: 'lang/',

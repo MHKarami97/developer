@@ -6,8 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=publish"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "core-js": "^3.8.3",
