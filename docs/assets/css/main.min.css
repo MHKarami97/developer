@@ -3093,7 +3093,7 @@ textarea {
 
 /*------------- Select Filter --------------*/
 .select--filter + .select2 {
-  background-image: url("../svg-icons/icon-filter.svg");
+  background-image: url("/assets/svg-icons/icon-filter.svg");
   background-repeat: no-repeat;
   background-size: 18px 12px;
   background-position: 20px;
